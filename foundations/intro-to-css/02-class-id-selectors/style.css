@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odd {
+  background-color: rgb(255, 191, 221);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#alpha {
+    color: blue; font-size: 36px;
+}
+
+.special {
+    font-size: 24px;
+}
+
+#gamma {
+    background: lightgreen; font-weight: bold; font-size: 24px;
+}
