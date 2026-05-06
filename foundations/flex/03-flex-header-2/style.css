@@ -58,5 +58,5 @@ ul {
 .right {
   display: flex;
   align-items: center;
-  margin: 16px;
+  gap: 16px;
 }
