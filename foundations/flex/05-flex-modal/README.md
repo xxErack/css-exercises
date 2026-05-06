@@ -1,4 +1,4 @@
-# A common 'modal' style
+S# A common 'modal' style
 This one is another very common pattern on the web. The solution to this one is _simple_... but it might not be immediately obvious to you. You'll need to edit the HTML a bit to get everything where it needs to be.
 
 ### A hint
